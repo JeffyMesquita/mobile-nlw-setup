@@ -37,7 +37,6 @@ export function Habit() {
         </Text>
 
         <ProgressBar progress={15} />
-
         <View className="mt-6">
           <Checkbox title="Beber 2L de água" checked />
           <Checkbox title="Caminhar" checked />
